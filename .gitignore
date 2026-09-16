@@ -1,0 +1,6 @@
+markdown_to_anki.py
+README.md
+requirements.txt
+run.bat
+__pycache__/
+*.py[cod]
