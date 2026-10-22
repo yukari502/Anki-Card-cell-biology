@@ -78,22 +78,23 @@
 
 <!-- anki-id: cell-biology-jsonl-000007 -->
 ### Front
-核糖体的生物发生过程及其功能？
+论述：核糖体的生物发生过程及其功能？
 
 ### Back
-<b>一、</b> <b>核糖体的组装（在核仁组装成大小亚基）<br>
-<u>主要发生在核仁中。首先要合成组装有关的蛋白质，运输到核仁区参与装配。</u>其中亚基 18SrRNA、5.8SrRNA、28SrRNA 是在核仁中边转录边边装配的，5SrRNA 在细胞核质中转录再转移到核仁中装配。<br>
-其装配过程为：<br>
-(1) <b>RNA 酶沿着 DNA 分子排列，新合成的 <span style="background-color: #FFFF00;">45SrRNA</span> 它与<span style="background-color: #FFFF00;">蛋白质</span>形成 RNP 复合体；</b><br>
-(2) <b><span style="background-color: #FFFF00;">45SrRNA 甲基化后经 RNA 酶剪裂成 18SrRNA 和 32SrRNA；</span></b><br>
-(3) 其中 32s rRNA 再剪裂成 28s rRNA 和 5.8s rRNA，并与从细胞核质转移到核仁中的 5s rRNA 组装成大亚基，若有 mRNA 的存在，则可与 18s rRNA 形成完整的核糖体。<br>
-<b>二、</b> <b>功能</b><br>
-① <span style="background-color: #FFFF00;">mRNA 的翻译</span>。将遗传密码转换成氨基酸序列，并从氨基酸单体构建蛋白质聚合物，是细胞内合成蛋白质的细胞器。<br>
-② <span style="background-color: #FFFF00;">翻译共折叠</span>。核糖体积极参与蛋白质折叠。在某些情况下，核糖体对于获得功能性蛋白质至关重要。<br>
-③ <span style="background-color: #FFFF00;">添加不依赖翻译的氨基酸</span>。<span style="background-color: #FFFF00;">核糖体质量控制蛋白 Rqc2</span> 的存在与 mRNA 非依赖性的蛋白质多肽链的延伸相关。<br>
-④ <span style="background-color: #FFFF00;">肽基转移和肽基水解</span>。<br>
-⑤ 核糖体在肽基转移和肽基水解这两个极其重要的生物过程中起催化作用。
+一、**核糖体的组装（生物发生过程）**
+主要发生在核仁中。首先要在细胞质中合成与组装有关的 r蛋白，并运输到核仁区参与装配。其中 18S rRNA、5.8S rRNA、28S rRNA 是在核仁中边转录边装配的，5S rRNA 在细胞核质中转录后转移到核仁中装配。具体装配过程为：
+（1）RNA 酶沿着 DNA 分子排列，新合成的 45S precursor rRNA（45S pre-rRNA）与蛋白质形成 RNP 复合体；
+（2）45S rRNA 甲基化后经 RNA 酶裂解成 18S rRNA 和 32S rRNA，其中 18S rRNA 参与形成小亚基；
+（3）32S rRNA 再裂解成 28S rRNA 和 5.8S rRNA，并与从细胞核质转移到核仁中的 5S rRNA 组装成大亚基；
+（4）大小亚基运出核孔进入细胞质，在有 mRNA 存在时形成完整的核糖体。
 
+二、**核糖体的功能**
+（1）**mRNA 的翻译**：将遗传密码转换成氨基酸序列，并从氨基酸单体构建蛋白质聚合物，是细胞内合成蛋白质的细胞器。
+（2）**翻译共折叠**：核糖体积极参与蛋白质折叠，在某些情况下对于获得功能性蛋白质至关重要。
+（3）**添加不依赖翻译的氨基酸**：核糖体质量控制蛋白 Rqc2 的存在与 mRNA 非依赖性的蛋白质多肽链延伸相关。
+（4）**肽基转移和肽基水解**：核糖体在肽基转移和肽基水解这两个极其重要的生物过程中起催化作用。
+
+---
 ### OriginalMaterial
 <img src="media/Screenshot 2026-06-24 090300.jpg">
 
